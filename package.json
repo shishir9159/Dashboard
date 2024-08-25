@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"svelte": "^4.2.19",
+		"svelte-preprocess": "^6.0.2",
+		"@tsconfig/svelte": "^5.0.4",
+		"esbuild-svelte": "^0.8.1"
+	}
+}
